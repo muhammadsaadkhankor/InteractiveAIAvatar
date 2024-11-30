@@ -22,13 +22,13 @@ Ensure you have the following installed on your system:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/muhammadsaadkhankor/InteractiveAIAvatar.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd <project-directory>
+cd InteractiveAIAvatar
 ```
 
 Install dependencies for both the frontend and backend:
